@@ -1,4 +1,8 @@
-![](https://github-readme-stats.vercel.app/api?username=AnthonyW90&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyW90&theme=apprentice&layout=compact&langs_count=6)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyW90&count_private=true&show_icons=true&theme=apprentice)
 
 <!--
 **AnthonyW90/AnthonyW90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
